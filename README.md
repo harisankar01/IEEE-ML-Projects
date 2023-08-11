@@ -3,5 +3,5 @@
 
 This repo consists of Machine learning and deep learning projects that I have worked out as part of my machine learning journey.
 
-> See the respective project's readme for information about each project.
+> See the respective project's readme for information about each project and links to IEEE base papers of the projects.
 > There are also some collaborators who worked as an team on some of these projects.
