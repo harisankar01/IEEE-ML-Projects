@@ -6,3 +6,5 @@ The paper uses the ensemble classifier has a long-term stable classifier and a d
 - A weight reduction mechanism that will decrease the impact of the old concept and let the algorithms focus more
   on the current concep.
 - There is detailed alogrithm for each process.
+
+ > IEEE paper Link ->  [Reinforcement_Online_Learning-Drifting Imbalanced Data Streams(Ensemble)](https://ieeexplore.ieee.org/document/9204849)
